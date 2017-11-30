@@ -1,6 +1,6 @@
 FROM alpine:latest
 
-MAINTAINER Oskar Hasinski <oskar@hasinski.de>
+MAINTAINER McMakelr <admin@mcmakler.de>
 
 # https://github.com/spf13/hugo/releases
 ENV HUGO_VERSION=0.20.7
